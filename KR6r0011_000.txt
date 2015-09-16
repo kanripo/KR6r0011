@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 歷代三寶紀
+#+DATE: 2015-08-30 21:55:10.534973
+#+PROPERTY: JUAN 0
