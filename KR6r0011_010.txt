@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:09.981481
+#+DATE: 2015-08-30 21:55:15.123956
 #+TITLE: 歷代三寶紀
 #+PROPERTY: CBETA_ID T49n2034
 #+PROPERTY: ID KR6r0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2034
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6r0011_T_000-0022c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0011_T_010-0088c> ¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 歷代三寶紀卷第十(譯經宋)¶
+歷代三寶紀卷第十(譯經宋)¶
 ¶
 開皇十七年翻經學士臣費長房上¶
 
@@ -226,7 +225,7 @@
 所言真謂開悟明達。可與談於天人之際矣。¶
 乃勅住祇洹寺供給隆厚。譯出前件經論記¶
 等常。於定林寺安居。時有信者採華布席。¶
-唯摩所坐華采更鮮。眾咸驚異。後還祇洹¶
+唯摩所坐華釆更鮮。眾咸驚異。後還祇洹¶
 奄然而化。摩未終前預作遺文。偈頌三十六¶
 行。自說證第二果。付與弟子阿沙羅云。吾歿¶
 之後可以此文示天竺僧并此土人也。又摩¶
