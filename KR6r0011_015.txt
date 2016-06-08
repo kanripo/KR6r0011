@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:10.172751
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:06
 #+TITLE: 歷代三寶紀
 #+PROPERTY: CBETA_ID T49n2034
 #+PROPERTY: ID KR6r0011
@@ -16,7 +16,7 @@
  歷代三寶記卷第十五¶
 ¶
 
-上開皇三寶錄表
+* 上開皇三寶錄表
 :PROPERTIES:
 :head: 上開皇三寶錄表
 :END:
@@ -42,7 +42,7 @@
 戰懼。輕冒奉表上錄以聞。伏願天慈垂神降¶
 省謹言。¶
 
-開皇三寶錄總目序
+* 開皇三寶錄總目序
 :PROPERTIES:
 :head: 開皇三寶錄總目序
 :END:

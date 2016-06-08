@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:09.692052
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:06
 #+TITLE: 歷代三寶紀
 #+PROPERTY: CBETA_ID T49n2034
 #+PROPERTY: ID KR6r0011
